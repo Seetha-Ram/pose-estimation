@@ -1,5 +1,5 @@
 Flask==2.1.1
-opencv-python-headless==4.4.0.46  # Specify a version that works with your code
+opencv-python-headless==4.5.3.56
 mediapipe==0.8.7.3
 numpy==1.21.2
 gunicorn==20.1.0
